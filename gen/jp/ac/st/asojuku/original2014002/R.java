@@ -25,16 +25,17 @@ public final class R {
         public static final int pic=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f08000b;
+        public static final int action_settings=0x7f08000c;
         public static final int btnchk=0x7f080005;
+        public static final int btndlt=0x7f08000a;
         public static final int btnmdr=0x7f080008;
         public static final int btnmnt=0x7f080004;
         public static final int btntrk=0x7f080003;
-        public static final int button2=0x7f08000a;
         public static final int edttxt=0x7f080002;
         public static final int htkttxv=0x7f080007;
         public static final int imageView1=0x7f080006;
-        public static final int listView1=0x7f080009;
+        public static final int listView1=0x7f08000b;
+        public static final int lsthtkt=0x7f080009;
         public static final int textView1=0x7f080000;
         public static final int textView2=0x7f080001;
     }
